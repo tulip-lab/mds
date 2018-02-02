@@ -1,0 +1,40 @@
+Apple Previews iOS 9
+SAN FRANCISCO — 8 June 2015 — Apple® today unveiled iOS 9, giving a preview of new iPhone®, iPad® and iPod touch® software that will be available this spring. In this upcoming release, iOS devices become more intelligent and proactive with powerful search and improved Siri® features — all without compromising users’ privacy. New multitasking features designed specifically for iPad allow you to work with two apps simultaneously, side-by-side or with the new Picture-in-Picture feature, to keep watching a video while browsing the web, composing email or using any other app. Built-in apps become more powerful in iOS 9 with detailed transit information in Maps*, a redesigned Notes app with new ways to capture ideas, and an all-new News app for the best news reading experience on any mobile device.
+
+“iOS 9 is packed with more intelligence throughout, and delivers big updates to the apps customers use most — Maps supports public transit, a redesigned Notes app provides great new ways to capture ideas, and a beautiful News app delivers content that’s personalised to your interests,” said Craig Federighi, Apple’s senior vice president of Software Engineering. “With our new iPad features, users can take advantage of the power of iPad, working in two apps at the same time with Split View, Slide Over or Picture-in-Picture.”
+
+Intelligence
+Siri features an all-new design in iOS 9, contextual reminders and new ways to search photos and videos. Proactive assistance presents the most relevant information without compromising users’ privacy and suggests actions at a particular moment — even before you start typing — automatically suggesting apps to launch or people to contact based on usage patterns, and notifying you when you need to leave for appointments, taking into account traffic conditions. iOS 9 can even learn what you typically listen to in a certain location or at a particular time of day, so when you plug in headphones at the gym or hop in the car before work, it can automatically display playback controls for your preferred app. Typed search queries deliver more relevant results from more categories, including sports scores and schedules, videos and simple math calculations.
+
+New iPad Features
+With a simple swipe, the new Slide Over feature lets you simultaneously work in a second app without leaving the first. And with a quick tap, you can access the new Split View feature so you can work in two apps at the same time, side-by-side. Picture-in-Picture lets you continue a FaceTime® call or video while using your favourite apps. These new multitasking features are supported by built-in Apple apps, and APIs make it easy for third-party developers to add support into their own apps. Typing is faster and easier with an all-new Shortcut Bar that displays actions tailored for the app you are in, and new Multi-Touch™ gestures make it even easier to select and edit text.
+
+Built-In Apps
+In iOS 9, Maps adds support for metropolitan transit systems and schedules, and subway station entrances and exits are precisely mapped, providing every step of your trip. When you plan your trip, Maps can offer a combination of trains, subways, buses and walking, and with the new Nearby feature, quickly see what’s around by searching for food, drinks, shopping and more.
+
+New features of the completely redesigned Notes app include the ability to draw a quick sketch using your finger, easily create checklists to keep track of your to-dos, or snap a photo directly in a note. Easily save important items to your notes directly from other apps, and keep them in sync across all your enabled devices with iCloud®.
+
+The News app delivers a reading experience that combines the rich, immersive design of a print magazine with the interactivity of digital media. News can learn your interests and suggest relevant content that’s easily shareable with friends or saved for later. News delivers the best articles from a variety of publishers and over one million topics to help you personalise your reading experience, all presented in an elegant, uncluttered design. News is powered by the new Apple News Format™, a digital publishing format supporting custom typography, galleries, audio, video and interactive animations, allowing publishers like Conde Nast, ESPN and The New York Times to create beautiful editorial layouts for iOS users.
+
+With iOS 9, Apple Pay™ adds support for Discover, rewards programs from merchants such as Walgreens and Kohl’s Department Stores, and participating store-issued credit and debit cards. Shoppers will be able to manage their cards in the new Wallet app. Apple Pay is only available today in the U.S. and will also be available to users in the UK starting next month.
+
+Foundation
+iOS 9 makes the foundation of iOS even stronger with refinements including battery optimisation that provides a typical user with an additional hour of battery life**, and a low-power mode to help further extend battery life. Software updates require less space to install and an Install Later feature can perform updates to your device when it’s not in use. Enhanced security features in iOS 9 keep your devices and Apple ID secure by strengthening the passcode that protects your devices and improving two-factor authentication by building it directly into iOS, making it harder for others to gain unauthorised access to your Apple ID.
+
+Developer APIs
+iOS 9 APIs and tools for developers include:
+• extensible search that deep links directly to content within third-party apps;
+• GameplayKit and Model I/O for building better games and ReplayKit for recording gameplay;
+• new HomeKit profiles for motorised windows and shades, motion sensors and home security systems;
+• wireless CarPlay™ and support for auto manufacturers to develop apps within CarPlay; and
+• new HealthKit data points for reproductive health, UV exposure, water intake and sedentary state.
+
+Swift™ 2 brings powerful new features and performance improvements that produce faster apps. The Swift compiler and standard library will be made available as open source later this year, putting the language in the hands of even more developers.
+
+Availability
+The iOS 9 beta software and SDK are available immediately for iOS Developer Program members at developer.apple.com, and a public beta program will be available in July at beta.apple.com. iOS 9 will be available this spring as a free software update for iPhone 4s and later, iPod touch 5th generation, iPad 2 and later, iPad mini and later. Features are subject to change. Some features may not be available in all regions or all languages.
+
+*Transit information in Maps will be available in select major cities this spring, including Baltimore, Berlin, Chicago, London, Mexico City, New York City, Philadelphia, the San Francisco Bay Area, Toronto and Washington D.C., as well as over 300 cities in China, including Beijing, Chengdu and Shanghai.
+**Battery life depends on usage and settings.
+
+Apple revolutionised personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, the Mac and Apple Watch. Apple’s three software platforms — iOS, OS X and watchOS — provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay and iCloud. Apple’s 100,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.

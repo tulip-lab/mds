@@ -1,0 +1,28 @@
+Apple Previews New Apple Watch Software
+watchOS 2 Introduces Native Third-Party Apps, New Watch Faces & Enhanced Communications Features
+
+SAN FRANCISCO — 8 June 2015 — Apple® today previewed watchOS™ 2, the first major software update for Apple Watch™, giving developers the tools to build faster and more powerful apps running natively on Apple Watch. Starting today, developers can take advantage of innovative hardware features of Apple Watch including the Digital Crown™, Taptic Engine™ and heart rate sensor, along with software APIs to build new app experiences. Available to Apple Watch users this spring, watchOS 2 also includes new watch faces, third-party app information as watch face complications and new communication capabilities in Mail, Friends and Digital Touch.
+
+“We are thrilled with the feedback we’re getting from Apple Watch customers, and after just a few weeks of availability we’re excited for developers to start building native apps for watchOS 2,” said Kevin Lynch, Apple’s vice president of Technology. “We think Apple Watch users will love being able to see information from their favourite apps right on the watch face, and enjoy the many new experiences developers will dream up now that they have access to even more innovative features of Apple Watch.”
+
+WatchKit for watchOS 2
+Developers have already created thousands of apps for Apple Watch, and WatchKit now gives them access to key hardware like the Digital Crown, Taptic Engine, heart rate sensor, accelerometer and microphone. New software APIs enable audio and video playback and animation, and with the ClockKit framework, developers can represent their data as complications on the watch face.
+
+These new tools allow developers to make apps more robust. For example, Strava can more accurately track your heart rate while on a ride or run using data from the heart rate sensor and accelerometer; Insteon can give customers more precise controls to dim their lights or control the temperature with the Digital Crown; Volkswagen owners can get haptic feedback when their car door has been locked; WeChat includes audio messaging using the microphone; and Vine can host and play video right in the app.
+
+New Apple Watch Features
+watchOS 2 lets you turn your favourite photo into a new watch face or view pictures from your favourite photo album with every raise of your wrist with the new Photo and Photo Album watch faces. With the Time-Lapse watch face, choose from a selection of time-lapse videos shot over 24 hours in iconic locations including New York City, London or Shanghai.
+
+A new Time Travel feature lets users scroll with the Digital Crown to explore events in the future (and past) including upcoming meetings or activities, the temperature for the week, and information from third-party apps, such as upcoming flight information.
+
+The latest Apple Watch software provides more creative ways to communicate. With Mail, you can respond quickly using dictation, Smart Replies or emoji. You can create multiple Friends screens, each of which can hold up to twelve friends, and new friends can be added directly on Apple Watch. Digital Touch lets you draw and send sketches with multiple colours on the same canvas, giving you more tools for creative sketches.
+
+Additional watchOS 2 features include:
+Nightstand Mode that transforms Apple Watch into a bedside alarm clock, with the Digital Crown and side button serving as snooze and off buttons for the alarm; the ability to use merchant rewards and store-issued credit and debit cards with Apple Pay™, which can be added to Wallet; support for Transit in Maps*, so you can view detailed transportation maps and schedules, including walking directions to the nearest stations with entrances and exits precisely mapped; workouts from third-party fitness apps contributing to your all-day Move and Exercise goals; using Siri® to start specific workouts, launch Glances and reply to email; and Activation Lock, which lets users secure their Apple Watch with their Apple ID, preventing another user from wiping or activating the device if it is lost or stolen.
+
+Availability
+watchOS 2 will be available this spring as a free update to Apple Watch. Apple Watch requires iPhone® 5, iPhone 5c, iPhone 5s, iPhone 6 or iPhone 6 Plus running iOS 8.2 or later. The iOS 9 SDK beta including WatchKit for watchOS 2 is available immediately for iOS Developer Program members at developer.apple.com/watchkit. Features are subject to change. Some features may not be available in all regions or all languages.
+
+*Transit information in Maps will be available in select major cities this fall, including Baltimore, Berlin, Chicago, London, Mexico City, New York City, Philadelphia, the San Francisco Bay Area, Toronto and Washington DC, as well as over 300 cities in China, including Beijing, Chengdu and Shanghai.
+
+Apple revolutionised personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, the Mac and Apple Watch. Apple’s three software platforms — iOS, OS X and watchOS — provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay and iCloud. Apple’s 100,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.
