@@ -9,3 +9,12 @@ Prepared by and for
 2006-2018 [TULIP Lab](http://www.tulip.org.au), Australia
 
 ---
+
+## Content
+
+* Module 00: Python Programming
+* Module 01: A Touch of Data Science
+* Module 02: Data Visualization
+* ...
+
+---
