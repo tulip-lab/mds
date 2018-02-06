@@ -1,5 +1,5 @@
 digraph G {
-rank = TB;
+rank = BT;
 node [shape=record];   
 struct1 [shape=record,label="<f0> left|<f1> middle|<f2> right"];    
 struct2 [shape=record,label="<f0> one|<f1> two"];
