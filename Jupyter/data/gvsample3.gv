@@ -1,0 +1,12 @@
+digraph G {
+a -> b [label="With Dr Li"]; 
+b -> e  [label="Enjoy study", style = filled]; 
+a -> c [label="try yourself", style = dotted]; 
+c -> d [color = red];
+
+a [shape=invtriangle, label="Start"];
+b [shape=box, label="Working hard in SIT361"];
+c [shape=polygon, sides= 6, label="Working hardly in SIT361"];
+d [shape=plaintext, color=red, label="sad"];
+e [shape=circle, color=lightblue, style = filled, label="Happy"];
+}
