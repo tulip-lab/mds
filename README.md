@@ -15,6 +15,10 @@ Prepared by and for
 * Module 00: Python Programming
 * Module 01: A Touch of Data Science
 * Module 02: Data Visualization
+* Module 03: Pattern Classification
+* Module 04: Machine Learning
+* Module 05: Deep Learning with Tensorflow
+* Module 06: Apache Spark
 * ...
 
 ---
