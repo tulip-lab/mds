@@ -19,6 +19,7 @@ Prepared by and for
 * Module 04: Machine Learning
 * Module 05: Deep Learning with Tensorflow
 * Module 06: Apache Spark
+* Module 07: Natural Language Processing
 * ...
 
 ---
