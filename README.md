@@ -12,6 +12,8 @@ Prepared by and for
 
 ## Content
 
+### Jupyter
+
 * Module 00: Python Programming
 * Module 01: A Touch of Data Science
 * Module 02: Data Visualization
@@ -22,4 +24,7 @@ Prepared by and for
 * Module 07: Natural Language Processing
 * ...
 
+### Mxnet and Gluon
+
+* Deep Learning using Mxnet
 ---
