@@ -8,13 +8,13 @@ Prepared by and for
 **Student Members** |
 2006-2018 [TULIP Lab](http://www.tulip.org.au), Australia
 
-2018 maintainers: 
+2018 maintainers: [Qiong Wu](https://github.com/qwutulip), [Xin Han](https://github.com/xhan97)
 
 ---
 
 ## Content
 
-### Jupyter
+### `Jupyter`
 
 * Module 00: Python Programming
 * Module 01: A Touch of Data Science
@@ -26,7 +26,13 @@ Prepared by and for
 * Module 07: Natural Language Processing
 * ...
 
-### Mxnet and Gluon
+### `Mxnet` 
 
 * Deep Learning using Mxnet
+    * Adapted from Chinese Version: 
+        * [动手学深度学习](https://zh.gluon.ai) 
+        * [Notebooks] (https://github.com/mli/gluon-tutorials-zh)
+    * English Version:
+        * [Deep Learning - The Straight Dope](http://gluon.mxnet.io)
+        * [Notebooks] (https://github.com/zackchase/mxnet-the-straight-dope)
 ---
