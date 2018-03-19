@@ -35,6 +35,5 @@ Prepared by and for
     * English Version:
         * [Deep Learning - The Straight Dope](http://gluon.mxnet.io)
         * [Notebooks] (https://github.com/zackchase/mxnet-the-straight-dope)
-	
-	* Test push
+	* push test
 ---
