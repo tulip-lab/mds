@@ -4,11 +4,10 @@
 - Materials in this module include resources collected from various open-source online repositories.
 - You are free to use, change and distribute this package.
 
-Prepared by and for 
-**Student Members** |
-2006-2018 [TULIP Lab](http://www.tulip.org.au), Australia
+For the `Modern Data Science` course (including **[SIT742](http://www.deakin.edu.au/current-students-courses/unit.php?unit=SIT742)** unit at [Deakin Univeristy](http://www.deain.edu.au)) by [TULIP Lab](http://www.tulip.org.au), Australia
 
-2018 maintainers: [Shaoni Wang](https://github.com/ShaoniWang), [Qiong Wu](https://github.com/qwutulip), [Xin Han](https://github.com/xhan97)
+- 2019 maintainers: [Shaoni Wang](https://github.com/ShaoniWang)
+- 2018 maintainers: [Shaoni Wang](https://github.com/ShaoniWang), [Qiong Wu](https://github.com/qwutulip), [Xin Han](https://github.com/xhan97)
 
 ---
 
